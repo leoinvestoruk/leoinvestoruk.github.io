@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: LeoInvestorUK's new blog
 description: UK smallcap focused investing blog
+permalink: /:categories/:year/:month/:day/:title:output_ext
